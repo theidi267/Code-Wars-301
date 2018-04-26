@@ -8,4 +8,4 @@ Timea & Yannick
 
 # Kata
 
-https://www.codewars.com/kata/mutate-my-stringsgit
+https://www.codewars.com/kata/mutate-my-strings
